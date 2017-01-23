@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+.idea
+*.pid
+*.swo
+*.pyc
+npm-debug.log
+node_modules/
+.meteor
