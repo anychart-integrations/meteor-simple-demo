@@ -1,9 +1,9 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](http://www.anychart.com)
 
-Anychart Meteor integration demo.
+Anychart Meteor Integration Demo.
 =========
 
-This example demonstrates how the AnyChart component can be used
+This example shows how the [AnyChart JavaScript Charts](http://www.anychart.com) can be used
 in [Meteor](https://www.meteor.com/) applications.
  
 ## Table of Contents
@@ -13,20 +13,18 @@ in [Meteor](https://www.meteor.com/) applications.
 * [Links](#links)
 * [License](#license)
 
-
-
 ## Meteor installation
-Please, follow [Meteor Install Guide](https://www.meteor.com/install) to get Meteor.
+Follow [Meteor Installation Guide](https://www.meteor.com/install) to get Meteor.
 
 ## Quick start
-Since Meteor is installed and is available in command line,
-please follow the next steps to run this integration demo: 
-1) Clone current repository to run it locally:
+After Meteor is installed and is available in the command line,
+please do the following to run this integration demo: 
+1) Clone this repository to run it locally:
 ```sh
 $ git clone git@github.com:anychart-integrations/meteor-simple-demo.git
 ```
 
-2) Change the directory
+2) Change the folder:
 ```sh
 $ cd meteor-simple-demo
 ```
@@ -36,19 +34,19 @@ $ cd meteor-simple-demo
 $ meteor create .
 ```
 
-4) Initialize [npm](https://www.npmjs.com/) for current meteor project.
+4) Initialize [npm](https://www.npmjs.com/) for the current Meteor project.
 ```sh
 $ meteor npm install
 ```
 
-5) Add anychart package to make `anychart` global object become available
- in Meteor application.
+5) Add anychart package to make `anychart` global object available
+ in Meteor applications.
 ```sh
 $ meteor add anychart:anychart
 ``` 
 
-6) Run the Meteor application (after the build is complete, it is available
-at [http://localhost:3000/](http://localhost:3000/) by default).
+6) Run the Meteor application (after the build is complete, by default it is available
+at [http://localhost:3000/](http://localhost:3000/)).
 ```sh
 $ meteor
 ```
@@ -68,7 +66,7 @@ $ meteor
 * [Download AnyChart](http://www.anychart.com/download/)
 * [AnyChart Licensing](http://www.anychart.com/buy/)
 * [AnyChart Support](http://www.anychart.com/support/)
-* [Report Issues](http://github.com/AnyChart/anychart/issues)
+* [Report Issues](https://github.com/anychart-integrations/meteor-simple-demo/issues)
 * [AnyChart Playground](http://playground.anychart.com)
 * [AnyChart Documentation](http://docs.anychart.com)
 * [AnyChart API Reference](http://api.anychart.com)
