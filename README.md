@@ -3,8 +3,7 @@
 Anychart Meteor Integration Demo.
 =========
 
-This example shows how the [AnyChart JavaScript Charts](http://www.anychart.com) can be used
-in [Meteor](https://www.meteor.com/) applications.
+This example shows how the use [AnyChart charting library](http://www.anychart.com) with [Meteor](https://www.meteor.com/) applications.
  
 ## Table of Contents
 * [Meteor install](#meteor-install)
