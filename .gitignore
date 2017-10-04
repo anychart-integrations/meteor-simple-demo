@@ -1,9 +1,10 @@
 node_modules/
-.meteor
 .DS_Store
 *.swp
 .idea
 *.pid
 *.swo
 *.pyc
-
+.versions
+.npm
+.meteor

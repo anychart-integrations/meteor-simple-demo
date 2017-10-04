@@ -3,7 +3,7 @@
 Anychart Meteor Integration Demo.
 =========
 
-This example shows how the use [AnyChart charting library](http://www.anychart.com) with [Meteor](https://www.meteor.com/) applications.
+This example shows how the use [AnyChart charting library](https://www.anychart.com) with [Meteor](https://www.meteor.com/) applications.
  
 ## Table of Contents
 * [Meteor install](#meteor-install)
@@ -53,7 +53,7 @@ $ meteor
  
 ## Contacts
 
-* Web: [www.anychart.com](http://www.anychart.com)
+* Web: [www.anychart.com](https://www.anychart.com)
 * Email: [contact@anychart.com](mailto:contact@anychart.com)
 * Twitter: [anychart](https://twitter.com/anychart)
 * Facebook: [AnyCharts](https://www.facebook.com/AnyCharts)
@@ -61,20 +61,31 @@ $ meteor
 
 ## Links
 
-* [AnyChart Website](http://www.anychart.com)
-* [Download AnyChart](http://www.anychart.com/download/)
-* [AnyChart Licensing](http://www.anychart.com/buy/)
-* [AnyChart Support](http://www.anychart.com/support/)
+* [AnyChart Website](https://www.anychart.com)
+* [Download AnyChart](https://www.anychart.com/download/)
+* [AnyChart Licensing](https://www.anychart.com/buy/)
+* [AnyChart Support](https://www.anychart.com/support/)
 * [Report Issues](https://github.com/anychart-integrations/meteor-simple-demo/issues)
-* [AnyChart Playground](http://playground.anychart.com)
-* [AnyChart Documentation](http://docs.anychart.com)
-* [AnyChart API Reference](http://api.anychart.com)
-* [AnyChart Sample Solutions](http://www.anychart.com/solutions/)
-* [AnyChart Integrations](http://www.anychart.com/integrations/)
+* [AnyChart Playground](https://playground.anychart.com)
+* [AnyChart Documentation](https://docs.anychart.com)
+* [AnyChart API Reference](https://api.anychart.com)
+* [AnyChart Sample Solutions](https://www.anychart.com/solutions/)
+* [AnyChart Integrations](https://www.anychart.com/integrations/)
 
 ## License
 
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). All rights reserved.
+Meteor-Anychart demo for AnyChart include two parts:
+- code of the demo that allows to use Javascript library (in this case, AnyChart) with Meteor.
+You can use, edit, modify it, use it with other Javascript libraries without any restrictions.
+It is released under [Apache 2.0 License](LICENSE).
+- AnyChart JavaScript library. It is released under Commercial license.
+You can test this plugin with the trial version of AnyChart.
+Our trial version is not limited by time and doesn't contain any feature 
+limitations. Check details [here](https://www.anychart.com/buy/).
+
+If you have any questions regarding licensing - please contact us. <sales@anychart.com>
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/Meteor?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
+
  
  
  
